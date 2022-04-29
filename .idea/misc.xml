@@ -6,7 +6,11 @@
         <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.191" />
         <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/layout/fragment_run.xml" value="0.26875" />
+        <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/layout/fragment_settings.xml" value="0.26875" />
+        <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/layout/fragment_tracking.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/layout/item_run.xml" value="0.12239583333333333" />
         <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26875" />
+        <entry key="..\:/Users/abdullah/ProjectMy/RunningApp/app/src/main/res/menu/toolbar_tracking_menu.xml" value="0.26875" />
       </map>
     </option>
   </component>

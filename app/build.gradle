@@ -19,7 +19,9 @@ android {
             useSupportLibrary true
         }
     }
-
+    buildTypes.each{
+        it.buildConfigField 'String','google_maps_key', API_KEY
+    }
     buildTypes {
         release {
             minifyEnabled false

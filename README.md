@@ -7,3 +7,4 @@
 - Coroutines
 - Google Maps SDK
 - LiveData
+- Service
